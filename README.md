@@ -1,5 +1,5 @@
 # pH_Calculator
-Calculate pH of any acid, base, salt and their mixture! (As long as it's in the database)
+Calculate pH of any acid, base, salt and their mixture! 
 
 Functions
 1. Accurately calculate the pH value of aqueous solutions of common acid, base or salt
